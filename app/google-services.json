@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "810821089010",
+    "project_id": "acuarioancla-3df17",
+    "storage_bucket": "acuarioancla-3df17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810821089010:android:c7928c423f48b52a2e426b",
+        "android_client_info": {
+          "package_name": "com.example.acuarioacla"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnT7pdT61isHbLOucVjoUvScV8ibYDBK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810821089010:android:b2c094390a4d17582e426b",
+        "android_client_info": {
+          "package_name": "com.example.acuarioancla"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnT7pdT61isHbLOucVjoUvScV8ibYDBK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810821089010:android:129e17a26b4778f12e426b",
+        "android_client_info": {
+          "package_name": "com.example.acuarioancla2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnT7pdT61isHbLOucVjoUvScV8ibYDBK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,40 @@
+<resources>
+
+    <string name="app_name">Registro</string>
+    <string name="user">Correo</string>
+    <string name="pass">Contraseña</string>
+    <string name="Condiciones">Acepto los terminos y las politicas de practica</string>
+    <string name="btnIn">Registrarse</string>
+    <string name="btnIn2">Iniciar Sesión</string>
+    <string name="todos">Todos</string>
+
+    <string name="titulo">Iniciar Sesión</string>
+    <string name="usu">Correo</string>
+    <string name="co">Contraseña</string>
+    <string name="buton">Iniciar Sesión</string>
+    <string name="recuperacion">¿Has olvidado tu contraseña?</string>
+    <string name="Interrogante">Recuperar contraseña</string>
+    <string name="btnCuenta">Crear Cuenta</string>
+
+
+    <string name="bt0">Buscar</string>
+    <string name="name">Pepito Perez</string>
+    <string name="usua">pepito@company.com</string>
+    <string name="menu">Menú</string>
+    <string name="bt1">Inventario</string>
+    <string name="bt2">Clientes</string>
+    <string name="bt3">Proveedores</string>
+    <string name="bt4">Ventas</string>
+    <string name="bt5">Compra</string>
+    <string name="ajustes">Ajustes</string>
+
+    <string name="btnVer">Ver</string>
+    <string name="btnEliminar">Eliminar</string>
+    <string name="btnAñadir">Añadir</string>
+    <string name="btnInsertar">Editar</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+
+
+</resources>
